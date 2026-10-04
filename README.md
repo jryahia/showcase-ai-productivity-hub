@@ -44,6 +44,14 @@ Notes, meetings and tasks live in six different tools. This hub syncs them into 
 
 ![Cross-platform dashboard after sync](assets/00-dashboard.png)
 
+**Task board fed by automation rules**
+
+![Task board fed by automation rules](assets/10-tasks.png)
+
+**Per-platform sync audit trail**
+
+![Per-platform sync audit trail](assets/11-synclogs.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).

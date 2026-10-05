@@ -40,6 +40,8 @@ Notes, meetings and tasks live in six different tools. This hub syncs them into 
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Cross-platform dashboard after sync**
 
 ![Cross-platform dashboard after sync](assets/00-dashboard.png)
